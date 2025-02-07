@@ -4,7 +4,7 @@
 
 ## 🖥️ Demo
 
-![Spiral Animation](gambar/spiral.png)
+![Spiral Animation](spiral.png)
 
 ## 📌 Fitur
 ✅ Spiral warna-warni dengan efek dinamis 🌈  

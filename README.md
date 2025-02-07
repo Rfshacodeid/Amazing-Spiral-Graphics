@@ -4,7 +4,7 @@
 
 ## 🖥️ Demo
 
-![Spiral Animation](https://your-image-link.com) *(Tambahkan link gambar jika ada)*
+![Spiral Animation](file:///C:/Users/ISD/Videos/Captures/Python%20Turtle%20Graphics%2007_02_2025%2017_25_49.png) *(Tambahkan link gambar jika ada)*
 
 ## 📌 Fitur
 ✅ Spiral warna-warni dengan efek dinamis 🌈  
